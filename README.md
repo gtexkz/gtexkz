@@ -10,4 +10,4 @@
 - Не быть долбаебом 😆
 
 ### GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gtexkz&theme=dark)](https://github.com/anuraghazra/github-readme-stats)![GitHub stats](https://github-readme-stats.vercel.app/api?username=gtexkz&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gtexkz&theme=dark)](https://github.com/anuraghazra/github-readme-stats)![GitHub stats](https://github-readme-stats.vercel.app/api?username=gtexkz&show_icons=true&theme=dark) [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31fkuqm3hul2yh7hq64wjebl5sgi&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=25098a&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
