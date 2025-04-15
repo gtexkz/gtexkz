@@ -1,16 +1,13 @@
-## Hi there 👋
 
-<!--
-**gtexkz/gtexkz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Languages  
+- **Russian:** My native language, better for speaking.  
+- **English:** Not my native language, but I can understand and communicate fairly well.  
 
-Here are some ideas to get you started:
+## Interests  
+- Become a software developer
+- Playing games with friends  
+- Help others with their problems  
+- Не быть долбаебом 😆
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### GitHub Stats
+[![](https://github-readme-stats.vercel.app/api?username=gtexkz)](https://github.com/anuraghazra/github-readme-stats)
