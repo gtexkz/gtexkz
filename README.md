@@ -1,7 +1,8 @@
 
 ### Languages  
 - **Russian:** My native language, better for speaking.  
-- **English:** Not my native language, but I can understand and communicate fairly well.  
+- **English:** Not my native language, but I can understand and communicate fairly well.
+- **Ukrainian:** Can speak and understand
 
 ## Interests  
 - Become a software developer
